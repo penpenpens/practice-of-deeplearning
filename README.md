@@ -1,1 +1,1 @@
-# practice-of-using-tensorflow-to-establish-neutral-network
+# practice-of-using-tensorflow-to-establish-neural-network

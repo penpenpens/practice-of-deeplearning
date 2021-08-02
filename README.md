@@ -1,1 +1,1 @@
-# practice-of-using-tensorflow-to-establish-DNN
+# practice-of-using-tensorflow-to-establish-neutral-network
